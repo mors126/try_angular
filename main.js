@@ -1,4 +1,6 @@
 /*global angular */
+/* written by Max Mors - test mode*/
+
 var myApp = angular.module('myApp', []);
 
 //comment is here ...
